@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<resources>
+    
+    <Resource id="soap" type="javax.sql.DataSource">
+	    jdbcDriver = com.mysql.jdbc.Driver
+	    jdbcUrl = jdbc:mysql://192.168.4.100:3306/webservice
+	    password = fepam
+	    userName = root
+	</Resource>
+</resources>
